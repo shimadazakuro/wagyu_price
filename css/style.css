@@ -40,6 +40,10 @@ p {
   border-radius: 0;
 }
 
+.card-body {
+  background-color: yellow;
+}
+
 
 @media screen and (min-width:576px) {
   .row {
